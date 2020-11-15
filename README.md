@@ -1,3 +1,5 @@
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hyngsk&show_icons=true&theme=dracula)
 ### Hi there 👋
 
 <!--
