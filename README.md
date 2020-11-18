@@ -3,6 +3,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyngsk&layout=compact)
 
 ### Hi there 👋
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyngsk%2Fhit-counter&count_bg=%23847A7A&title_bg=%23F38C8C&icon=alliedmodders.svg&icon_color=%23745D5D&title=hits&edge_flat=true)
+
 
 <!--
 **hyngsk/hyngsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
