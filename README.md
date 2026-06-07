@@ -4,7 +4,7 @@
 
 ### Backend · Web · API · Automation
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -15,6 +15,7 @@
 ```java
 public class Developer {
     private final String mainLanguage = "Java";
+
     private final String[] interests = {
         "Spring Boot",
         "Web API",
@@ -36,12 +37,14 @@ public class Developer {
 
 <div align="center">
 
-### Language
+### Languages
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/><br/>
 
 ### Backend
 
@@ -50,6 +53,8 @@ public class Developer {
 <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=222222" />
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 
+<br/><br/>
+
 ### Frontend
 
 <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
@@ -57,12 +62,16 @@ public class Developer {
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
 
+<br/><br/>
+
 ### Infra / DevOps
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=222222" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" />
+
+<br/><br/>
 
 ### Database / Tools
 
@@ -75,52 +84,74 @@ public class Developer {
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Focus
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hyngsk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyngsk&layout=compact&theme=tokyonight&hide_border=true" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Backend</h3>
+      <p>Java · Spring Boot · API</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Web</h3>
+      <p>Vue · React · JavaScript</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Infra</h3>
+      <p>Linux · Jenkins · Proxmox</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🔥 Streak
+## 🚀 What I Like
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hyngsk&theme=tokyonight&hide_border=true" />
+<table>
+  <tr>
+    <td>⚙️ Automation</td>
+    <td>🔌 API Integration</td>
+    <td>🧩 Developer Tools</td>
+  </tr>
+  <tr>
+    <td>🖥 Server Management</td>
+    <td>📦 Deployment</td>
+    <td>🛠 Problem Solving</td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🏆 Trophy
+## 🧭 GitHub
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hyngsk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyngsk&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
+<a href="https://github.com/hyngsk">
+  <img src="https://img.shields.io/badge/GitHub-hyngsk-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=hyngsk&style=for-the-badge&color=blueviolet" />
+
+</div>
+
+---
+
+## 🧱 Main Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Main-Java-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Backend-Spring_Boot-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Frontend-Vue.js-42B883?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Infra-Linux-black?style=for-the-badge" />
 
 </div>
 
@@ -130,6 +161,6 @@ public class Developer {
 
 ### ⚡ Keep building. Keep improving.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
 </div>
